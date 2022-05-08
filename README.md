@@ -7,13 +7,22 @@ I'm Software Engineer based in Stockholm, Sweden. I'm passionate about solving r
 [![Linkedin Badge](https://img.shields.io/badge/-Katarina%20Rosiak-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/katarzyna-katarina-rosiak-467465b7/)](https://www.linkedin.com/in/katarzyna-katarina-rosiak-467465b7/) [![Medium Badge](http://img.shields.io/badge/-@katarinarosiak-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@katarinarosiak)](https://medium.com/@katarinarosiak) [![Gmail Badge](https://img.shields.io/badge/-katarinarosiak@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:katarinarosiak@gmail.com)](mailto:katarinarosiak@gmail.com)
 
 ### 📌 My Repos
-<a href="https://github.com/katarinarosiak/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katarinarosiak&repo=airline_routes" />
-</a>
-<a href="https://github.com/katarinarosiak/rock-viewpoint-website
-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katarinarosiak&repo=rock-viewpoint-website" />
-</a>
+<div>
+  <a href="https://github.com/katarinarosiak/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katarinarosiak&repo=airline_routes" />
+  </a>
+  <a href="https://github.com/katarinarosiak/rock-viewpoint-website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katarinarosiak&repo=rock-viewpoint-website" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/katarinarosiak/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katarinarosiak&repo=to_do_app"/>
+  </a>
+  <a href="https://github.com/katarinarosiak/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katarinarosiak&repo=GO_exercises" />
+  </a>
+</div>
 
 
 ### 🛠️ Technologies and Tools
