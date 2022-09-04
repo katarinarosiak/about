@@ -1,10 +1,19 @@
 # 👨🏻‍💻 Hi, I'm [Katarina](https://) 👋 
-
-I'm Software Engineer based in Stockholm, Sweden. I'm passionate about solving real life problems with technology. 
-
-
-## 🔌 Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-Katarina%20Rosiak-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/katarzyna-katarina-rosiak-467465b7/)](https://www.linkedin.com/in/katarzyna-katarina-rosiak-467465b7/) [![Medium Badge](http://img.shields.io/badge/-@katarinarosiak-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@katarinarosiak)](https://medium.com/@katarinarosiak) [![Gmail Badge](https://img.shields.io/badge/-katarinarosiak@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:katarinarosiak@gmail.com)](mailto:katarinarosiak@gmail.com)
+
+I’m a full-stack Software Engineer based in Stockholm, Sweden with experience with JavaScript, Node.js, PostgreSQL, React, and AWS. I'm passionate about creative problem solving and I'm always eager to learn new technologies.
+
+Recently I co-created [Seymour](https://seymour-active-monitoring.github.io/), an open-source, AWS-native active monitoring solution specializing in API testing from globally distributed locations.
+
+## Seymour's Repo:
+<div>
+  <a href="https://github.com/seymour-active-monitoring">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=katarinarosiak&repo=airline_routes"/>
+  </a>
+</div>
+
+
+
 
 ## 📌 My Repos
 <div>
