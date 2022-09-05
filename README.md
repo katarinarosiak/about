@@ -6,7 +6,7 @@ I’m a full-stack Software Engineer based in Stockholm, Sweden with experience 
 Recently I co-created [Seymour](https://seymour-active-monitoring.github.io/), an open-source, AWS-native active monitoring solution specializing in API testing from globally distributed locations.
 
 <div>
-  <img src=”https://user-images.githubusercontent.com/64321232/188396046-33ffaf62-3fe0-4099-8b24-4a36024f4bfa.png" alt=”my-banner”>
+  <img src=”https://user-images.githubusercontent.com/64321232/188397172-6af0e6ab-9e64-47dc-92d8-7d1af5423a33.png" alt=”my-banner”>
 </div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>                                                                                                               
                                                                                                                   
