@@ -3,7 +3,7 @@
 
 I’m a full-stack Software Engineer based in Stockholm, Sweden with experience with JavaScript, Node.js, PostgreSQL, React, and AWS. I'm passionate about creative problem solving and I'm always eager to learn new technologies.
 
-Recently I co-created [Seymour](https://seymour-active-monitoring.github.io/), an open-source, AWS-native active monitoring solution specializing in API testing from globally distributed locations. (React, Express, PostgreSQL, AWS: EventBridge, SQS, SNS, Lambda, RDS, CDK)
+Recently I co-created [Seymour](https://seymour-active-monitoring.github.io/), an open-source, AWS-native active monitoring solution specializing in API testing from globally distributed locations. (React, Express, PostgreSQL, AWS: EventBridge, SQS, SNS, Lambda, RDS, ElasticBeanstalk, CDK)
 <p float="left">
   <img src="https://user-images.githubusercontent.com/64321232/188594660-fba61688-1dc0-4cc5-ba4a-903f16070cc0.png" width="400" />
   <img src="https://user-images.githubusercontent.com/64321232/188594441-2b026c22-166a-410a-8b0f-17d45fbcc7d4.png" width="400" /> 
